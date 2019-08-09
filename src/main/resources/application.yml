@@ -1,0 +1,11 @@
+spring:
+  freemarker:
+    charset: UTF-8
+    template-loader-path: classpath:/templates/
+    content-type: text/html
+    suffix: .ftl
+    request-context-attribute: request
+server:
+  port: 8080
+  servlet:
+    context-path: /freemarker
