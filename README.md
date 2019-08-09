@@ -7,7 +7,7 @@ freemarker学习
 #### 4.freemarker常用内建函数的使用
 #### 5.freemarker的macro、nested、function&return的用法
 
-### freemarker常用数据类型
+#### freemarker常用数据类型
 类型	FreeMarker接口	FreeMarker实现
 字符串	TemplateScalarModel	SimpleScalar
 数值	TemplateNumberModel	SimpleNumber
