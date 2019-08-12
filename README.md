@@ -8,7 +8,7 @@ freemarker学习
 #### 5.freemarker的macro、nested、function&return的用法
 #### 6.freemarker常用数据类型
 | 类型 | FreeMarker接口 | FreeMarker实现 |
-| :------| ------: | :------: |
+| :------: | :------: | :------: |
 | 字符串 | TemplateScalarModel | SimpleScalar |
 | 数值 | TemplateNumberModel | SimpleNumber |
 | 日期 | TemplateDateModel | SimpleDate |
