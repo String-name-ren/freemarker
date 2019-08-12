@@ -18,3 +18,7 @@ freemarker学习
 集合	TemplateCollectionModel	SimpleCollection<br/>
 节点	TemplateNodeModel	NodeModel<br/>
 
+| 左对齐标题 | 右对齐标题 | 居中对齐标题 |
+| :------| ------: | :------: |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
