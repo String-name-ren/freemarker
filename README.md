@@ -11,7 +11,7 @@ freemarker学习
 类型	FreeMarker接口	FreeMarker实现<br/>
 字符串	TemplateScalarModel	SimpleScalar<br/>
 数值	TemplateNumberModel	SimpleNumber<br/>
-日期	TemplateDateModel	SimpleDate<br/><br/>
+日期	TemplateDateModel	SimpleDate<br/>
 布尔	TemplateBooleanModel	TemplateBooleanModel.TRUE<br/>
 哈希	TemplateHashModel	SimpleHash<br/>
 序列	TemplateSequenceModel	SimpleSequence<br/>
