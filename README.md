@@ -10,11 +10,11 @@ freemarker学习
 #### freemarker常用数据类型
 类型	FreeMarker接口	FreeMarker实现<br/>
 字符串	TemplateScalarModel	SimpleScalar<br/>
-数值	TemplateNumberModel	SimpleNumber<br/><br/>
+数值	TemplateNumberModel	SimpleNumber<br/>
 日期	TemplateDateModel	SimpleDate<br/><br/>
-布尔	TemplateBooleanModel	TemplateBooleanModel.TRUE<br/><br/>
+布尔	TemplateBooleanModel	TemplateBooleanModel.TRUE<br/>
 哈希	TemplateHashModel	SimpleHash<br/>
-序列	TemplateSequenceModel	SimpleSequence<br/><br/>
+序列	TemplateSequenceModel	SimpleSequence<br/>
 集合	TemplateCollectionModel	SimpleCollection<br/>
 节点	TemplateNodeModel	NodeModel<br/>
 
